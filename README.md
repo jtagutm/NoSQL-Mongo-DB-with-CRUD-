@@ -57,8 +57,8 @@ NOSQL_PELICULAS/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/NOSQL_PELICULAS.git
-   cd NOSQL_PELICULAS
+   git clone https://github.com/your-username/NOSQL_DATABASES.git
+   cd NOSQL_DATABASES
    ```
 
 2. **Build and run containers**
